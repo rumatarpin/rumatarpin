@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <img src="https://github.com/Muhammad-Sarfaraz/Muhammad-Sarfaraz/blob/main/github-metrics.svg" alt="Sarfaraz Muhammad Sajib"> 
+  <img src="https://github.com/rumatarpin/rumatarpin/blob/main/github-metrics.svg" alt="Ruma Tarpin"> 
 </p>
